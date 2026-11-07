@@ -9,8 +9,8 @@ Transformo datos complejos en tableros interactivos y modelos analíticos para o
 
 ### 🛠️ Tech Stack & Herramientas
 - **Análisis de Datos & Estadística:** Python (Pandas, NumPy, SciPy, Seaborn), SQL
-- **Business Intelligence & Visualización:** Power BI, DAX, Excel Avanzado
-- **Bases de Datos & ETL:** PostgreSQL, SQL Server, Data Cleaning Pipelines
+- **Business Intelligence & Visualización:** Power BI, DAX, Excel, googlesheets
+- **Bases de Datos:* SQL Server, Data Cleaning Pipelines
 
 ---
 
