@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**vasquezelisamaria597-ctrl/vasquezelisamaria597-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Maria 📊
+### Analista de Datos | Especialista en Power BI, SQL & Python
 
-Here are some ideas to get you started:
+Transformo datos complejos en tableros interactivos y modelos analíticos para optimizar la toma de decisiones comerciales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Herramientas
+- **Análisis de Datos & Estadística:** Python (Pandas, NumPy, SciPy, Seaborn), SQL
+- **Business Intelligence & Visualización:** Power BI, DAX, Excel Avanzado
+- **Bases de Datos & ETL:** PostgreSQL, SQL Server, Data Cleaning Pipelines
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 📊 1. Cuadro de Mando Comercial (Andes Retail Group)
+- **Herramientas:** Power BI, DAX, Modelado Estrella.
+- **Descripción:** Análisis de tendencias temporales, márgenes y distribución geográfica.
+
+#### 🐍 2. Análisis Estadístico A/B Testing
+- **Herramientas:** Python (Pandas, SciPy, Seaborn), Z-Test, Chi-Square.
+- **Descripción:** Evaluación de conversión en landing page y validación de hipótesis.
+
+#### 🗄️ 3. Pipeline de Limpieza y Cohortes de Clientes
+- **Herramientas:** SQL, CTEs, Window Functions (`ROW_NUMBER`).
+- **Descripción:** Deduplicación de transacciones y cálculo de métricas de retención.
